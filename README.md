@@ -9,16 +9,18 @@
 
 <br>
 
-<p align="center"> 🌟 Tech staks 🌟
+<p align="center"> 🌟 Tech staks 🌟 </p>
 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center"> 🥕 Contact me 🥕 </p>
 
-<a href="https://instagram.com/springlovessummer27">
+<p align="center">
+  <a href="https://instagram.com/springlovessummer27">
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/springlovessummer27/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> </p>
