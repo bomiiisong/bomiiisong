@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 </p>
 
+<br>
+
 <p align="center"> 🥕 Contact me 🥕 </p>
 
 <p align="center">
