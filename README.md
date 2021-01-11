@@ -5,7 +5,7 @@
 
 <br>
 
-<h4 align="center"> Hi there, I'm bomi 🌼 </h4>
+<h3 align="center"> Hi there, I'm bomi 🌼 </h3>
 
 <br>
 
