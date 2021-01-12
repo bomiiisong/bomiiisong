@@ -1,9 +1,7 @@
 <!--
 **bomiiisong/bomiiisong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=C86B98&&height=150&text=bomi%20song&&animation=fadeIn&fontColor=270F36&fontSize=70)
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=C86B98&&height=150&text=bomi%20song&&animation=fadeIn&fontColor=270F36&fontSize=70)
 
 <h3 align="center"> Hi there, I'm bomi 🌼 </h3>
 
